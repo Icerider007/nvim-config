@@ -1,2 +1,1 @@
-require("Test")
-print("Hello")
+require("basics.remap")
